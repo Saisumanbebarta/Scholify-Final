@@ -74,4 +74,15 @@ while True:
 
   
 ## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+   We learnt a lot from making this project. 
+
+ Here are some of the most important lessons we learnt:- 
+
+ The importance of planning. :- Before we started working on the project, we took some time to plan out what we wanted to solve. This helped us to stay on track and avoid getting overwhelmed.
+
+ The importance of communication :- We communicated with our team members regularly throughout the project. This helped us to stay on the same page and resolve any issues that arose.
+ The importance of iteration :- We didn't expect to get everything right the first time around. We made changes to our code and design as we went along, and this helped us to improve the project over time.
+
+ The importance of perseverance :- There were times when we felt like giving up on the project. But we persevered, and we are glad thag we did it. We are proud of what we are able to accomplish.
+
+We are grateful for the opportunity to have worked on this project. We learnt a lot, and we are excited to apply what we learnt to future projects.
